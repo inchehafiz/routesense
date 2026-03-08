@@ -1,0 +1,7 @@
+{
+  "name": "RouteSense",
+  "description": "Personal commute intelligence app for Kuala Lumpur that learns your real commute behavior and recommends the best transport options.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
